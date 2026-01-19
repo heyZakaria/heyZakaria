@@ -1,12 +1,12 @@
 
-                                  👋
-                                Hi, I'm  
-                            Zakaria Abdelali  
-                       Full-stack Developer | OSS   
-                     ✉️ Email: zaki.abdo82@gmail.com  
-                  Java/Spring Boot, Angular, PostgreSQL
-             🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
-          ⚡ Fun fact: I love planning before coding (and coffee ☕)
+                                                          👋
+                                                        Hi, I'm  
+                                                    Zakaria Abdelali  
+                                               Full-stack Developer | OSS   
+                                             ✉️ Email: zaki.abdo82@gmail.com  
+                                          Java/Spring Boot, Angular, PostgreSQL
+                                     🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
+                                  ⚡ Fun fact: I love planning before coding (and coffee ☕)
 
 
    <!-- 👯 I’m looking to collaborate on **backend & full-stack projects**  -->
