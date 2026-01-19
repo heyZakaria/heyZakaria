@@ -1,4 +1,21 @@
-## Hi there 👋
+                                  👋  
+                                Hi, I'm  
+                            Zakaria Abdelali  
+                       Full-stack Developer | ISTJ  
+                     ✉️ Email: zaki.abdo82@gmail.com  
+              🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
+            🔗 LinkedIn: https://www.linkedin.com/in/heyzakaria/  
+          ⚡ Fun fact: I love planning before coding (and coffee ☕)
+
+
+   <!-- 👯 I’m looking to collaborate on **backend & full-stack projects**  -->
+
+
+
+
+
+
+
 
 <!--
 **heyZakaria/heyZakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
