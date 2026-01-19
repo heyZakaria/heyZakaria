@@ -1,7 +1,8 @@
+
                                   👋  
                                 Hi, I'm  
                             Zakaria Abdelali  
-                       Full-stack Developer | ISTJ  
+                       Full-stack Developer | 🇲🇦  
                      ✉️ Email: zaki.abdo82@gmail.com  
               🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
             🔗 LinkedIn: https://www.linkedin.com/in/heyzakaria/  
