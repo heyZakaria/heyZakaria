@@ -1,15 +1,21 @@
 
-                                  👋  
+                                  👋
                                 Hi, I'm  
                             Zakaria Abdelali  
-                       Full-stack Developer | 🇲🇦  
+                       Full-stack Developer | OSS   
                      ✉️ Email: zaki.abdo82@gmail.com  
-              🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
-            🔗 LinkedIn: https://www.linkedin.com/in/heyzakaria/  
+                  Java/Spring Boot, Angular, PostgreSQL
+             🌟 Convo starter: Sport 🏀, Design 🎨, Books 📚  
           ⚡ Fun fact: I love planning before coding (and coffee ☕)
 
 
    <!-- 👯 I’m looking to collaborate on **backend & full-stack projects**  -->
+
+
+🔗 Get in touch:
+-  LinkedIn: https://www.linkedin.com/in/heyzakaria/
+-   X: https://x.com/HeyZakaria
+-  Email: zaki.abdo82@gmail.com  
 
 
 
