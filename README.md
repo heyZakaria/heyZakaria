@@ -9,7 +9,7 @@
                                   ⚡ Fun fact: I love planning before coding (and coffee ☕)
 
 
-https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+
 
 
 
