@@ -9,7 +9,13 @@
                                   ⚡ Fun fact: I love planning before coding (and coffee ☕)
 
 
-   <!-- 👯 I’m looking to collaborate on **backend & full-stack projects**  -->
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+
+
+
+
+
+   <!-- 👯 I’m looking to collaborate on **backend & full-stack projects**  
 
 
 🔗 Get in touch:
@@ -19,12 +25,6 @@
 
 
 
-
-
-
-
-
-<!--
 **heyZakaria/heyZakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
